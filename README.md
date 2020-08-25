@@ -1,5 +1,5 @@
->"Exploring Weather Trends"
-> In this project I will analyze local and global temperature data
+#"Exploring Weather Trends"
+In this project I will analyze local and global temperature data
 and compare the temperature trends in SA, Riyadh to overall
 global temperature trends.
 
